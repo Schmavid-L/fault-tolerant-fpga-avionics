@@ -1,0 +1,24 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+
+# Vivado project output folders
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+*.gen/
+
+# Vivado local metadata
+.Xil/
+
+# Temporary/editor files
+*.tmp
+*.bak
+*~
+.vscode/
+
+
+Avionics_project/
