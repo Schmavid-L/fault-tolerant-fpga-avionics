@@ -5,7 +5,5 @@ module majority_voter(
     output logic Vote        // ports
 );
 
-assign Vote =  (A & B) | (A & C) | (B & C) ;
-
-
+assign Vote = (A & B) | (A & C) | (B & C); // logic to pick majority votes
     endmodule
