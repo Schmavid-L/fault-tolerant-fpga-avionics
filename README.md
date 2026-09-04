@@ -1,4 +1,4 @@
-# Fault-Tolerant FPGA Avionics Controller
+# Fault-Tolerant FPGA Controller
 
 A hardware-implemented fault-tolerant control system built in SystemVerilog and deployed on a Digilent Basys 3 FPGA.
 
@@ -211,7 +211,7 @@ Physical testing confirmed:
 ## Repository Structure
 
 ```text
-fault-tolerant-fpga-avionics/
+fault-tolerant-fpga/
 |
 +-- rtl/
 |   +-- majority_voter.sv
